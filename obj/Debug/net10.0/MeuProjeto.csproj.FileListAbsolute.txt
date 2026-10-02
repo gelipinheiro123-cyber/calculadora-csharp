@@ -12,3 +12,4 @@ C:\Users\GeliP\OneDrive\index\meu projeto\obj\Debug\net10.0\refint\MeuProjeto.dl
 C:\Users\GeliP\OneDrive\index\meu projeto\obj\Debug\net10.0\MeuProjeto.pdb
 C:\Users\GeliP\OneDrive\index\meu projeto\obj\Debug\net10.0\MeuProjeto.genruntimeconfig.cache
 C:\Users\GeliP\OneDrive\index\meu projeto\obj\Debug\net10.0\ref\MeuProjeto.dll
+C:\Users\GeliP\OneDrive\index\meu projeto\obj\Debug\net10.0\MeuProjeto.sourcelink.json
